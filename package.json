@@ -1,0 +1,21 @@
+{
+  "name": "@z3r0x/superset-plugin-chart-hello-world",
+  "version": "0.0.2",
+  "description": "hello world Superset",
+  "main": "index.js",
+  "private": false,
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chart.js": "^3.5.1",
+    "lodash": "^4.17.21",
+    "react-chartjs-2": "^3.0.4",
+    "react-google-charts": "^3.0.15"
+  }
+}
